@@ -1,7 +1,7 @@
 ---
 hip: <HIP number (this is determined by the HIP editor)>
 title: Auto Token KYC with Auto 
-author: wensheng
+author: @wensheng, @gregscullard
 working-group: a list of the technical and business stakeholders' name(s) and/or username(s), or name(s) and email(s).
 type: Standards Track
 category: Service
@@ -29,6 +29,7 @@ When a user has slots available for auto association and an auto association is 
 
 ## User stories
 
+1. As a game operator, I want to give custumes or loots as NFTs to my users so that when they log into the game, they can receive NFTs and start wearing or using them immediately so they can have a better game experience.
 Provide a list of "user stories" to express how this feature, functionality, improvement, or tool will be used by the end user. Template for user story: “As (user persona), I want (to perform this action) so that (I can accomplish this goal).”
   
 ## Specification
